@@ -6,6 +6,6 @@ setuptools.setup(
     install_requires=[
         'peppercorn'
     ],
-    packages=['pizzapackage', 'pizzapackage/pizza/src', 'pizzapackage/pizza'],
+    packages=['pizzapackage', 'pizzapackage/src', 'pizzapackage'],
     scripts=['src/pizzapackage/pizza_test.sh', 'src/pizzapackage/pizza.sh']
 )

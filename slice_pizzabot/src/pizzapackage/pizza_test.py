@@ -1,5 +1,5 @@
 import unittest
-import pizza.src.pizza as pizza
+import pizzapackage.src.pizza as pizza
 
 class TestTupleCreation(unittest.TestCase):
 

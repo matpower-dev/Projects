@@ -1,3 +1,2 @@
 pizzapackage
-pizzapackage/pizza
-pizzapackage/pizza/src
+pizzapackage/src

@@ -4,10 +4,10 @@ setup.cfg
 setup.py
 src/pizzapackage/__init__.py
 src/pizzapackage/pizza.sh
+src/pizzapackage/pizza_test.py
 src/pizzapackage/pizza_test.sh
-src/pizzapackage/pizza/__init__.py
-src/pizzapackage/pizza/pizza_test.py
-src/pizzapackage/pizza/src/pizza.py
+src/pizzapackage/src/__init__.py
+src/pizzapackage/src/pizza.py
 src/pythontest_pkg_matpower.egg-info/PKG-INFO
 src/pythontest_pkg_matpower.egg-info/SOURCES.txt
 src/pythontest_pkg_matpower.egg-info/dependency_links.txt
