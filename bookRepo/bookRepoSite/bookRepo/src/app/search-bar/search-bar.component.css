@@ -1,0 +1,20 @@
+div {
+  margin:auto;
+  width:30%
+}
+
+#selector {
+  display: flex;
+  width:97%
+}
+
+a {
+  background-color: #ddd;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+#selector button:hover {
+  background-color: #f2f2f2;
+}

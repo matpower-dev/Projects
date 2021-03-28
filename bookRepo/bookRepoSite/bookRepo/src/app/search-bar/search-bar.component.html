@@ -1,0 +1,15 @@
+<p>search-bar works!</p>
+<div>
+<input (focusout)="focusFunction()" [ngClass]="{'dropdown': isDropdown==1}" id="selector" [(ngModel)]="searchText" (keyup)="searchDB(searchText)" placeholder="Search..." >
+<a ngShow="isDropdown==1" *ngFor="let item of resultList">{{item}}</a>
+</div>
+<div>
+    <filtered-select
+    [options]="options"
+    [lines]="8"
+    [backgroundColor]="'white'"
+    (chosenOption)="onResult($event)"
+    [grouped]=true
+  >
+ </filtered-select>`
+ </div>
