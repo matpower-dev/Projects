@@ -1,2 +1,3 @@
-#export PYTHONPATH="${PYTHONPATH}:${PWD}"
+#After installation, do below to run:
+#pizza_test.sh
 python -m pizzapackage.pizza_test
