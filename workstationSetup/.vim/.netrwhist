@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/Matthew/git/slice_pizzabot'
+let g:netrw_dirhist_5='/Users/Matthew/git/slice_pizzabot/src/pizzapackage/pizza'
+let g:netrw_dirhist_4='/Users/Matthew/slice_pizzabot'
+let g:netrw_dirhist_3='/Users/Matthew/slice_pizzabot/src/pizzapackage'
+let g:netrw_dirhist_2='/Users/Matthew/Sites/test/test/src/app/selected-book'
+let g:netrw_dirhist_1='/Users/Matthew/Sites/bookRepoSite'
+let g:netrw_dirhist_0='/Users/Matthew/Sites/test/test/src/app/scrape-google-books-search'
+let g:netrw_dirhist_9='/Users/Matthew/Sites/test/test/src/app/google-book-api-search'
+let g:netrw_dirhist_8='/Users/Matthew/Sites/bookRepoSite/bookRepo/src/app/selectmulti'
+let g:netrw_dirhist_7='/Users/Matthew/Sites/bookRepoSite/bookRepo/src/app/search-bar'

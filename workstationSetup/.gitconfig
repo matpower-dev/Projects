@@ -1,0 +1,7 @@
+[user]
+	name = Matthew Power
+	email = mjmpower06@gmail.com
+[pager]
+	branch = false
+[pull]
+	ff = only
