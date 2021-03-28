@@ -27,7 +27,7 @@
 #pizza.sh "5x5 (0, 0) (1, 3) (4, 4) (4, 2) (4, 2) (0, 1) (3, 2) (2, 3) (4, 1)"
 
 #The python modules will be located differently for you, but should in standard location pip installs to. For me, I use a shim, so it goes to:
-#~/.pyenv/versions/3.8.5/lib/python3.8/site-package/pizzapackage
+#~/.pyenv/versions/3.8.5/lib/python3.8/site-packages/pizzapackage
 #The scripts also go whereever pip moves these. For me, this is:
 #~/.pyenv/versions/3.8.5/bin
 

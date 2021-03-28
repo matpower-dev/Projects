@@ -1,8 +1,8 @@
 import setuptools
 
 setuptools.setup(
-    name='pythontest-pkg-matpower',
-    version='0.0.1',
+    name='pizzapackage-matpower',
+    version='0.0.2',
     install_requires=[
         'peppercorn'
     ],
